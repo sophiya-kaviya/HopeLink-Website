@@ -1,7 +1,10 @@
 # 🌿 HopeLink – Mental Health Support Website
 
 ## 📖 Project Overview
-HopeLink is a responsive mental health support website designed to promote mental wellness and provide helpful resources. The website offers a clean and user-friendly interface where users can access mental health information, wellness tips, self-assessment tools, and support resources.
+HopeLink is a responsive mental health support website designed to promote mental wellness and provide helpful resources. The website offers a clean, user-friendly interface where users can access mental health information, wellness tips, self-assessment tools, and support resources.
+
+## 🌐 Live Website
+**https://hope-link-space.lovable.app**
 
 ## ✨ Features
 - Responsive Design
@@ -30,16 +33,11 @@ HopeLink/
 └── README.md
 ```
 
-## 🚀 How to Run
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in any web browser.
-
 ## 🎯 Objective
 The objective of HopeLink is to create awareness about mental health and provide a simple, accessible platform for emotional well-being and support.
 
 ## 👩‍💻 Developed By
-**Sophiya Kaviya**
+**Sophiya**
 
 ## 📄 License
 This project is created for educational purposes.
